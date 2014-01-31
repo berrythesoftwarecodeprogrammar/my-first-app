@@ -1,1 +1,1 @@
-gud app script for hy world programed in irc
+gud app script for hy world programed in irc language
